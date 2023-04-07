@@ -31,5 +31,18 @@ body{
     background-color: rgb(243, 106, 243);
 }
 #user_name{
-    color: rgb(232, 143, 232);
+    color: purple;
+}
+#msg{
+    width: 950px;
+}
+#msg_icon{
+    height: 60px;
+    width: 60;
+}
+#heading{
+    color: lavenderblush;
+}
+#rthba{
+    color: lightcyan;
 }
